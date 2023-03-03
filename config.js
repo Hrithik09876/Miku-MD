@@ -7,11 +7,11 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "Miku"
-global.packname = "Miku bot"
+global.Owner = ['917034325532']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['917034325532']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['917034325532']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.BotName = "ʜʀɪᴛʜɪᴋ"
+global.packname = "ʜʀɪᴛʜɪᴋ bot"
 global.author = "By: Fantox"
 global.OwnerName = "Fantox"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
