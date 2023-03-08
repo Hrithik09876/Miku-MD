@@ -4,7 +4,7 @@
 <h1 align="center"> hrithik  ( Outdated )
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "hrithik Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "manidas Nakano" a WhatsApp bot made by hrithik to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
   <a href="https://github.com/FantoX001/Miku-MD/fork">
