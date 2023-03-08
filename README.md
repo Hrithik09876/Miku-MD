@@ -1,10 +1,10 @@
  https://user-images.githubusercontent.com/96835724/202911067-fbebff62-1566-4120-bd37-08311166b70b.mp4 
 
      
-<h1 align="center"> Miku Nakano ( Outdated )
+<h1 align="center"> hrithik  ( Outdated )
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "hrithik Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
   <a href="https://github.com/FantoX001/Miku-MD/fork">
